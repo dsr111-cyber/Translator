@@ -16,7 +16,7 @@ It allows users to translate text into multiple languages with a **modern animat
 
 ## 🚀 Live Demo
 
-👉 Add your deployed link here (Netlify / Vercel)
+👉 vist https://dsr111-cyber.github.io/Translator/
 
 ---
 
