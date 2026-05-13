@@ -105,12 +105,10 @@ Just open `index.html` in your browser
 
 ---
 
-## 🚀 Deployment
+## 🚀 Deployed
 
 Deploy easily using:
 
-* Netlify
-* Vercel
 * GitHub Pages
 
 ---
