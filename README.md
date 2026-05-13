@@ -1,4 +1,4 @@
-# 🌍 Azure Translator Web App
+# 🌍 Az Translator Web App
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/azure-translator-ui)
 ![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/azure-translator-ui?style=social)
